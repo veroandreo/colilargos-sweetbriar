@@ -1,0 +1,187 @@
+line,region,ambient,year,año,specid,spcode,splatname,rep1,rep2,rep3,rep4
+E1,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E2,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E3,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E4,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E5,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E6,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E7,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E11,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+E12,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+E13,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,1,NA
+E16,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+E17,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+E20,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E21,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E22,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E23,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,NA
+E24,Estepa ,Estepa ,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M1,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M2,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,0,0
+M3,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M4,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M5,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,0
+M6,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,0
+M7,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,0,0
+M8,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M9,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,0,0
+M10,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,1
+M11,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,1
+M12,Ecotono,Mosquetales,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,1
+SM1,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+SM2,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+SM3,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+SM5,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM6,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM7,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM9,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,1,NA
+SM10,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+SM11,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+SM12,Ecotono,Sin_mosqueta,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ1,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+Ñ2,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+Ñ3,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+Ñ4,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+Ñ5,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+Ñ6,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+Ñ7,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+N8,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,NA
+Ñ9,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+Ñ10,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+Ñ11,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+Ñ12,Bosque,Ñirantal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+C1,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,0
+C2,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+C3,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,1,0,0,0
+C4,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+C5,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,1,0
+C7,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C8,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+C9,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,1,NA
+C10,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+C11,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C12,Bosque,Cipresal,1,2007,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E1,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E3,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E5,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E6,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E7,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E8,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E9,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E11,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E13,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E14,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,0,0,0
+E15,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E17,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E19,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E20,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E21,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E23,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+E24,Estepa ,Estepa ,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,0
+M2,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M3,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M4,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M5,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,1,1,NA
+M6,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+M8,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+M9,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M10,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+M11,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,1,NA
+M12,Ecotono,Mosquetales,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM1,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM3,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM4,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM6,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM7,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM8,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM10,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM11,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM12,Ecotono,Sin_mosqueta,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ1,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ2,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+Ñ3,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ4,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ5,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+Ñ6,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ7,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+N8,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ11,Bosque,Ñirantal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C1,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C2,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+C4,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C5,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+C7,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C8,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C9,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C10,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C12,Bosque,Cipresal,2,2008,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+A1,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A2,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A3,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A4,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A5,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A6,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A7,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A8,NA,NA,2,2008,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+E3,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E4,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E6,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E7,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,0,1,NA
+E8,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,1,NA
+E9,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E10,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E11,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,1,1,NA
+E12,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+E13,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,1,NA
+E14,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E15,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E16,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E17,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+E19,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,0,1,NA
+E21,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E22,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E23,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+E24,Estepa ,Estepa ,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M3,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,1,0,NA
+M5,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+M6,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M7,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M8,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,1,0,NA
+M9,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,1,0,0,NA
+M10,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M11,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+M12,Ecotono,Mosquetales,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM1,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM3,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM4,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM6,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM7,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM8,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM9,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM10,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+SM11,Ecotono,Sin_mosqueta,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ1,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ2,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ3,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ5,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ6,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ7,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ9,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ11,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+Ñ12,Bosque,Ñirantal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,1,NA
+C1,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C2,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C4,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C5,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C7,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C8,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C9,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C10,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,0,NA
+C11,Bosque,Cipresal,3,2009,1,OLILON,Oligoryzomys longicaudatus,0,0,1,NA
+A1,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A2,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A3,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A4,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A5,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A6,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA
+A7,NA,NA,3,2009,1,OLILON,Oligoryzomys longicaudatus,NA,NA,NA,NA

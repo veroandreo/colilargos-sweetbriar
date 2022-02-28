@@ -1,0 +1,187 @@
+line,region,ambient,year,year1,Asplendens,Hlanatus,Phlpratense,Planceolata,Ruacetocella
+E1,Estepa ,Estepa ,1,2007,2.75,0,0,1.7,4.1
+E2,Estepa ,Estepa ,1,2007,4.22,0,0,0.35,2.15
+E3,Estepa ,Estepa ,1,2007,0.3,0,0,0,1.8
+E4,Estepa ,Estepa ,1,2007,0.7,0,0,0,1.5
+E5,Estepa ,Estepa ,1,2007,3.6,0,0,0,2.65
+E6,Estepa ,Estepa ,1,2007,2.6,0,0,0,4.25
+E7,Estepa ,Estepa ,1,2007,0.25,0,0,0.45,1.1
+E11,Estepa ,Estepa ,1,2007,0,0,0,0,6.35
+E12,Estepa ,Estepa ,1,2007,7.7,0,0,0,6.4
+E13,Estepa ,Estepa ,1,2007,4.6,0,0,0,5
+E16,Estepa ,Estepa ,1,2007,0.8,0,0,0,11.15
+E17,Estepa ,Estepa ,1,2007,NA,NA,NA,NA,NA
+E20,Estepa ,Estepa ,1,2007,4.9,0,0,0,1.7
+E21,Estepa ,Estepa ,1,2007,1.8,0,0,0,0.55
+E22,Estepa ,Estepa ,1,2007,2.7,0,0,0,3.7
+E23,Estepa ,Estepa ,1,2007,1.3,0,0,0,12.3
+E24,Estepa ,Estepa ,1,2007,0.85,0,0,0,3.55
+M1,Ecotono,Mosquetales,1,2007,0,0.1,0,1.25,0
+M2,Ecotono,Mosquetales,1,2007,NA,NA,NA,NA,NA
+M3,Ecotono,Mosquetales,1,2007,0,3.8,0,1.1,0.2
+M4,Ecotono,Mosquetales,1,2007,0,2.7,0.05,7.8,0.3
+M5,Ecotono,Mosquetales,1,2007,0,1.2,0.4,11.75,0.3
+M6,Ecotono,Mosquetales,1,2007,0,0,0,0.6,0.4
+M7,Ecotono,Mosquetales,1,2007,0,0,0,5.9,0.36
+M8,Ecotono,Mosquetales,1,2007,0.05,0,0,0.5,0.05
+M9,Ecotono,Mosquetales,1,2007,NA,NA,NA,NA,NA
+M10,Ecotono,Mosquetales,1,2007,0,4.7,0.9,2.1,2.4
+M11,Ecotono,Mosquetales,1,2007,0.7,9,0.5,6.6,0.4
+M12,Ecotono,Mosquetales,1,2007,0.3,0,0,2.4,2.4
+SM1,Ecotono,Sin_mosqueta,1,2007,0,6.1,4.3,0,0
+SM2,Ecotono,Sin_mosqueta,1,2007,NA,NA,NA,NA,NA
+SM3,Ecotono,Sin_mosqueta,1,2007,0,2.5,6.95,0,0
+SM5,Ecotono,Sin_mosqueta,1,2007,0,9.4,3.7,0,0.8
+SM6,Ecotono,Sin_mosqueta,1,2007,0,3.9,0,0.31,0.45
+SM7,Ecotono,Sin_mosqueta,1,2007,0,2.1,0.8,0.1,0
+SM9,Ecotono,Sin_mosqueta,1,2007,0,0,0,0.2,2.45
+SM10,Ecotono,Sin_mosqueta,1,2007,0,0,0,1.1,0.9
+SM11,Ecotono,Sin_mosqueta,1,2007,0,1.6,0,0,0
+SM12,Ecotono,Sin_mosqueta,1,2007,0,2.6,0.5,0,0
+N1,Bosque,Nirantal,1,2007,0,32.6,4.7,5.9,0
+N2,Bosque,Nirantal,1,2007,0,32.3,0.2,0,0
+N3,Bosque,Nirantal,1,2007,NA,NA,NA,NA,NA
+N4,Bosque,Nirantal,1,2007,NA,NA,NA,NA,NA
+N5,Bosque,Nirantal,1,2007,0,9,0,0.4,0.1
+N6,Bosque,Nirantal,1,2007,0,22.9,0,4.8,1.6
+N7,Bosque,Nirantal,1,2007,0,5.9,0,0.6,0.05
+N8,Bosque,Nirantal,1,2007,NA,NA,NA,NA,NA
+N9,Bosque,Nirantal,1,2007,0,13.1,0.3,0.1,0
+N10,Bosque,Nirantal,1,2007,0,2.4,1.9,0.5,0
+N11,Bosque,Nirantal,1,2007,0,3.6,0.2,0,0
+N12,Bosque,Nirantal,1,2007,0,3.3,3.9,0,0
+C1,Bosque,Cipresal,1,2007,0,0,0,0,7.6
+C2,Bosque,Cipresal,1,2007,0,0.6,0,0,3.2
+C3,Bosque,Cipresal,1,2007,NA,NA,NA,NA,NA
+C4,Bosque,Cipresal,1,2007,0,0,0,0,7.9
+C5,Bosque,Cipresal,1,2007,0,0,0,0,5.95
+C7,Bosque,Cipresal,1,2007,0,1.7,0,0,2.95
+C8,Bosque,Cipresal,1,2007,0,7.4,0,0,2.1
+C9,Bosque,Cipresal,1,2007,0,6.75,0,0,1.5
+C10,Bosque,Cipresal,1,2007,NA,NA,NA,NA,NA
+C11,Bosque,Cipresal,1,2007,0,2.5,0,0.1,0.1
+C12,Bosque,Cipresal,1,2007,0,6.1,0.5,0,1.55
+E1,Estepa ,Estepa ,2,2008,4.8,0,0,0,2.16
+E3,Estepa ,Estepa ,2,2008,12.01,0,0,0,2.77
+E5,Estepa ,Estepa ,2,2008,5.1,0,0,0,3.6
+E6,Estepa ,Estepa ,2,2008,7,0,0,0.91,10.7
+E7,Estepa ,Estepa ,2,2008,7.2,0,0,2.3,3.75
+E8,Estepa ,Estepa ,2,2008,3.6,0,0,0,0
+E9,Estepa ,Estepa ,2,2008,13.2,0,0,0,0.3
+E11,Estepa ,Estepa ,2,2008,6.5,0,0,0,5.7
+E13,Estepa ,Estepa ,2,2008,0.5,0.2,0,0,10.35
+E14,Estepa ,Estepa ,2,2008,0.4,0.05,0,0,3.75
+E15,Estepa ,Estepa ,2,2008,0,0.3,0,0,0
+E17,Estepa ,Estepa ,2,2008,0.3,0,0,0,0.36
+E19,Estepa ,Estepa ,2,2008,0,0,0,0,0.1
+E20,Estepa ,Estepa ,2,2008,0,0,0,0,0
+E21,Estepa ,Estepa ,2,2008,2,0,0,0,0
+E23,Estepa ,Estepa ,2,2008,0,0,0,0,1
+E24,Estepa ,Estepa ,2,2008,0,0,0,0,0
+M2,Ecotono,Mosquetales,2,2008,0,0,0.3,0.3,0.1
+M3,Ecotono,Mosquetales,2,2008,0,0,0.05,0.05,0.85
+M4,Ecotono,Mosquetales,2,2008,0,0,0,15.93,1.84
+M5,Ecotono,Mosquetales,2,2008,0.2,0.05,0,0.05,8.2
+M6,Ecotono,Mosquetales,2,2008,0,0,0,0.1,1.9
+M8,Ecotono,Mosquetales,2,2008,0,1.5,0,0.02,0.35
+M9,Ecotono,Mosquetales,2,2008,0,0,6.4,0,0.35
+M10,Ecotono,Mosquetales,2,2008,0,10.1,0,5.7,0.3
+M11,Ecotono,Mosquetales,2,2008,0,8.2,0,0.65,0.6
+M12,Ecotono,Mosquetales,2,2008,0,3.56,0,0.95,0.1
+SM1,Ecotono,Sin_mosqueta,2,2008,0,4.8,27.4,0,0
+SM3,Ecotono,Sin_mosqueta,2,2008,0,0.2,0.6,0.1,0
+SM4,Ecotono,Sin_mosqueta,2,2008,0,2.7,4.9,0.52,0.4
+SM6,Ecotono,Sin_mosqueta,2,2008,0,1,0,0.33,0.95
+SM7,Ecotono,Sin_mosqueta,2,2008,0,2.8,0.2,1.3,0.55
+SM8,Ecotono,Sin_mosqueta,2,2008,0,4.6,0.4,0.1,0.9
+SM10,Ecotono,Sin_mosqueta,2,2008,0,10.8,0.4,0,0.15
+SM11,Ecotono,Sin_mosqueta,2,2008,0,30.2,0,0.7,0
+SM12,Ecotono,Sin_mosqueta,2,2008,0,9.8,0,0,0
+N1,Bosque,Nirantal,2,2008,0,3.8,5.9,0.21,0
+N2,Bosque,Nirantal,2,2008,0,20.3,4.7,3.25,0.11
+N3,Bosque,Nirantal,2,2008,0.9,0.6,0,0.3,0.57
+N4,Bosque,Nirantal,2,2008,0.3,1.2,0.1,0.7,1.3
+N5,Bosque,Nirantal,2,2008,0,3.9,0.1,0,1.6
+N6,Bosque,Nirantal,2,2008,0,4.5,0.6,0.15,0.15
+N7,Bosque,Nirantal,2,2008,0,3.4,1.1,0.5,0.4
+N8,Bosque,Nirantal,2,2008,0,3,0.7,0.15,0.05
+N11,Bosque,Nirantal,2,2008,0,7.3,0,0,0.1
+C1,Bosque,Cipresal,2,2008,0,6.6,0,0,1.35
+C2,Bosque,Cipresal,2,2008,0.1,1,0,0,6.5
+C4,Bosque,Cipresal,2,2008,0,0.8,0,0,2.9
+C5,Bosque,Cipresal,2,2008,0,0.6,0,0,6.3
+C7,Bosque,Cipresal,2,2008,0,2.15,0,0,1.8
+C8,Bosque,Cipresal,2,2008,0,2.3,0,0,0.1
+C9,Bosque,Cipresal,2,2008,0,1.25,0,0,0
+C10,Bosque,Cipresal,2,2008,0,1.25,0,0.4,3.26
+C12,Bosque,Cipresal,2,2008,0,15,0,0,0.9
+A1,NA,NA,2,2008,NA,NA,NA,NA,NA
+A2,NA,NA,2,2008,NA,NA,NA,NA,NA
+A3,NA,NA,2,2008,NA,NA,NA,NA,NA
+A4,NA,NA,2,2008,NA,NA,NA,NA,NA
+A5,NA,NA,2,2008,NA,NA,NA,NA,NA
+A6,NA,NA,2,2008,NA,NA,NA,NA,NA
+A7,NA,NA,2,2008,NA,NA,NA,NA,NA
+A8,NA,NA,2,2008,NA,NA,NA,NA,NA
+E3,Estepa ,Estepa ,3,2009,0.6,0,0,0.56,1.21
+E4,Estepa ,Estepa ,3,2009,1.2,0,0,0.1,2.15
+E6,Estepa ,Estepa ,3,2009,1.6,0,0,0,5.15
+E7,Estepa ,Estepa ,3,2009,5.7,0,0,0.1,4.01
+E8,Estepa ,Estepa ,3,2009,0,0,0,1,3.45
+E9,Estepa ,Estepa ,3,2009,5.2,0,0,0.3,7.55
+E10,Estepa ,Estepa ,3,2009,1.7,0,0,0,2.6
+E11,Estepa ,Estepa ,3,2009,2.3,0,0,0,1.45
+E12,Estepa ,Estepa ,3,2009,6.6,0,0,0,1.45
+E13,Estepa ,Estepa ,3,2009,NA,NA,NA,NA,NA
+E14,Estepa ,Estepa ,3,2009,9.7,0,0,0,1.7
+E15,Estepa ,Estepa ,3,2009,6.1,0,0,0,0.45
+E16,Estepa ,Estepa ,3,2009,0.8,0,0,0,2.3
+E17,Estepa ,Estepa ,3,2009,8.2,0,0,0,0.45
+E19,Estepa ,Estepa ,3,2009,2.7,0,0,0,1.65
+E21,Estepa ,Estepa ,3,2009,3.9,0,0,0,4.76
+E22,Estepa ,Estepa ,3,2009,3.8,0,0,0,3.35
+E23,Estepa ,Estepa ,3,2009,8.7,0,0,0,4.45
+E24,Estepa ,Estepa ,3,2009,6.4,0,0,0.3,4.87
+M3,Ecotono,Mosquetales,3,2009,0,0.1,0,0.8,0.01
+M5,Ecotono,Mosquetales,3,2009,0,1.8,0,2.1,0.1
+M6,Ecotono,Mosquetales,3,2009,0.1,1,0.6,0,0
+M7,Ecotono,Mosquetales,3,2009,0,0,0.1,1.11,0.1
+M8,Ecotono,Mosquetales,3,2009,0,5.1,0.2,1.12,0.3
+M9,Ecotono,Mosquetales,3,2009,0,0,0,1.15,0
+M10,Ecotono,Mosquetales,3,2009,0,1.8,1,5.4,0.3
+M11,Ecotono,Mosquetales,3,2009,3.4,0.2,0,1.21,0.71
+M12,Ecotono,Mosquetales,3,2009,0,0,0,0,1.21
+SM1,Ecotono,Sin_mosqueta,3,2009,0,4,0.1,1.1,1
+SM3,Ecotono,Sin_mosqueta,3,2009,0,5.1,0,0.1,5.7
+SM4,Ecotono,Sin_mosqueta,3,2009,0,0.7,0,0.1,0.7
+SM6,Ecotono,Sin_mosqueta,3,2009,0,3.8,0.41,0.1,0.6
+SM7,Ecotono,Sin_mosqueta,3,2009,0,0.7,0,0.8,1
+SM8,Ecotono,Sin_mosqueta,3,2009,0,1,0,0.4,4.7
+SM9,Ecotono,Sin_mosqueta,3,2009,0,0,0,0.4,3.05
+SM10,Ecotono,Sin_mosqueta,3,2009,0,2.5,1.7,0.1,0
+SM11,Ecotono,Sin_mosqueta,3,2009,0,0,6.11,0,0.1
+N1,Bosque,Nirantal,3,2009,0.1,5.7,0.7,0.3,0.9
+N2,Bosque,Nirantal,3,2009,0.6,3.3,0.2,0.1,1.6
+N3,Bosque,Nirantal,3,2009,1.3,0,0,0.2,0.6
+N5,Bosque,Nirantal,3,2009,1.11,5.8,0.7,0.25,3.65
+N6,Bosque,Nirantal,3,2009,0,14.4,0.1,1.9,0.8
+N7,Bosque,Nirantal,3,2009,0,8.7,0.3,0.2,0.3
+N9,Bosque,Nirantal,3,2009,0,9.1,1,0.5,0.6
+N11,Bosque,Nirantal,3,2009,0,11.9,0,1.1,0.4
+N12,Bosque,Nirantal,3,2009,0,15.2,0.1,0.2,1.7
+C1,Bosque,Cipresal,3,2009,0.4,0.5,0,0,1.55
+C2,Bosque,Cipresal,3,2009,0,2.3,0,0.1,0.8
+C4,Bosque,Cipresal,3,2009,0,2.2,0,0.8,1.8
+C5,Bosque,Cipresal,3,2009,0,4.8,0,0.9,2.8
+C7,Bosque,Cipresal,3,2009,0,2.8,0,0.7,2.75
+C8,Bosque,Cipresal,3,2009,0,3.05,0,0.1,4.7
+C9,Bosque,Cipresal,3,2009,0,3.05,0,0.1,0.8
+C10,Bosque,Cipresal,3,2009,0,5.4,0,0,2.4
+C11,Bosque,Cipresal,3,2009,0,1.5,0,0,1
+A1,NA,NA,3,2009,NA,NA,NA,NA,NA
+A2,NA,NA,3,2009,NA,NA,NA,NA,NA
+A3,NA,NA,3,2009,NA,NA,NA,NA,NA
+A4,NA,NA,3,2009,NA,NA,NA,NA,NA
+A5,NA,NA,3,2009,NA,NA,NA,NA,NA
+A6,NA,NA,3,2009,NA,NA,NA,NA,NA
+A7,NA,NA,3,2009,NA,NA,NA,NA,NA
